@@ -1,1 +1,1 @@
-#Published App: [Github Finder](github-finder-pn4x.vercel.app)
+#Published App: [Github Finder](https://github-finder-pn4x.vercel.app/)
